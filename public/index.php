@@ -15,7 +15,7 @@
 		<div class="row" style="margin-top:30px;">
 			<div class="panel panel-default">
 				<div class="panel-body text-center">
-    				<h3>My MVC2</h3>
+    				<h3>My MVC</h3>
   				</div>
 			</div>
 		</div>
